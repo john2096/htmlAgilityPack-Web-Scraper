@@ -1,0 +1,1 @@
+This web scraping program is designed to pull the DOM of https://webscraper.io/test-sites/e-commerce/allinone/computers/tablets.  This reposite doesn't include the full project but comes with the .cs and .db files of the project.  As well as an image that shows the program in action.
